@@ -175,7 +175,7 @@ All extensions are installed by going to `File > Extension Manager`.
 
 > Track and report website traffic.
 
-### [Google Analytics](https://analytics.google.com/)
+### **I use:** [Google Analytics](https://analytics.google.com/)
 
 ## Miscellaneous
 
