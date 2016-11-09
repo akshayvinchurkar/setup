@@ -4,18 +4,18 @@ I'm Tania, a self-taught web developer who has been working professionally in th
 
 ## Contents
 
-* [Operating System](#operating-system)
-* [Browser](#browser)
-* [Text Editor / IDE](#text-editor--ide)
-* [Stack](#stack)
-* [Hosting / Cloud Computing](#hosting--cloud-computing)
-* [Version Control](#version-control)
-* [Content Management System (CMS)](#content-management-system-cms)
-* [JS Task Runner](#js-task-runner)
-* [CSS Preprocessor](#css-preprocessor)
-* [CSS Framework](#css-framework)
-* [Content Delivery Network (CDN)](#content-delivery-network-cdn)
-* [Miscellaneous](#miscellaneous)
+- [Operating System](#operating-system)
+- [Browser](#browser)
+- [Text Editor / IDE](#text-editor--ide)
+- [Stack](#stack)
+- [Hosting / Cloud Computing](#hosting--cloud-computing)
+- [Version Control](#version-control)
+- [Content Management System (CMS)](#content-management-system-cms)
+- [JS Task Runner](#js-task-runner)
+- [CSS Preprocessor](#css-preprocessor)
+- [CSS Framework](#css-framework)
+- [Content Delivery Network (CDN)](#content-delivery-network-cdn)
+- [Miscellaneous](#miscellaneous)
 
 ## Operating System
 
@@ -28,9 +28,10 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 ### Configuration
 
-* Hide desktop icons: `defaults write com.apple.finder CreateDesktop false`
-* Show hidden files: `defaults write com.apple.finder AppleShowAllFiles YES`
-* Show path bar in finder: `defaults write com.apple.finder ShowPathbar -bool true`
+- Allow app installation: `Security and Privacy -> General -> Allow apps from identified developers`
+- Hide desktop icons: `defaults write com.apple.finder CreateDesktop false`
+- Show hidden files: `defaults write com.apple.finder AppleShowAllFiles YES`
+- Show path bar in finder: `defaults write com.apple.finder ShowPathbar -bool true`
 
 ### Installations
 
@@ -69,8 +70,8 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 #### Additional Programs
 
-* [Spectacle](https://www.spectacleapp.com/)
-* [Sip](http://sipapp.io/)
+- [Spectacle](https://www.spectacleapp.com/) - simplified window resizing.
+- [Sip](http://sipapp.io/) - collect the code for any color on your screen.
 
 ## Browser
 
@@ -81,7 +82,7 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 ## Hosting / Cloud Computing
 
-> The service that allows a website to be viewed on the internet.
+> A service that allows a website to be viewed on the internet.
 
 ### **I use:** [NearlyFreeSpeech](https://www.nearlyfreespeech.net/)
 **Other Options:** [Amazon Web Services (AWS)](https://aws.amazon.com/), [Digital Ocean](https://www.digitalocean.com/), [MediaTemple](https://www.mediatemple.net/), [Rackspace](https://www.rackspace.com/)
@@ -187,7 +188,13 @@ All extensions are installed by going to `File > Extension Manager`.
 
 ## Miscellaneous
 
-* [Evernote](https://evernote.com/)
-* [Slack](https://slack.com/)
+- [Evernote](https://evernote.com/)
+- [Slack](https://slack.com/)
+
+### Things I Don't Know About Yet
+
+- Vagrant
+- VirtualBox
+- Docker
 
 
