@@ -32,13 +32,15 @@
 
 * **Hosting**
  * [MediaTemple](https://www.mediatemple.net/) 
+ * [DreamHost](https://www.dreamhost.com/)
+ * [Rackspace](https://www.rackspace.com/)
 * **Cloud Computing**
  * [Amazon Web Services (AWS)](https://aws.amazon.com/)
  * [Digital Ocean](https://www.digitalocean.com/)
 
 ## Stack
 
-### LAMP
+### Linux Apache MySQL PHP (LAMP)
 
 ## Text Editor / IDE
 
