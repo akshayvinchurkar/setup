@@ -1,17 +1,17 @@
 # Web Developer Setup
 
-1. [Operating System](#operating-system)
-1. [Browser](#browser)
-1. [Hosting](#hosting)
-1. [Stack](#stack)
-1. [Text Editor/IDE](#text-editor-ide)
-1. [Version Control](#version-control)
-1. [Content Management System](#content-management-system)
-1. [JS Task Runner](#js-task-runner)
-1. [CSS Preprocessor](#css-preprocessor)
-1. [CSS Framework](#css-framework)
-1. [Content Delivery Network](#content-delivery-network)
-1. [Miscellaneous](#miscellaneous)
+* [Operating System](#operating-system)
+* [Browser](#browser)
+* [Hosting](#hosting)
+* [Stack](#stack)
+* [Text Editor/IDE](#text-editor-ide)
+* [Version Control](#version-control)
+* [Content Management System](#content-management-system)
+* [JS Task Runner](#js-task-runner)
+* [CSS Preprocessor](#css-preprocessor)
+* [CSS Framework](#css-framework)
+* [Content Delivery Network](#content-delivery-network)
+* [Miscellaneous](#miscellaneous)
 
 ## Operating System
 
