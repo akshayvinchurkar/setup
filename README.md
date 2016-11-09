@@ -34,7 +34,7 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 - Hide desktop icons
 
 ```shell
-defaults write com.apple.finder CreateDesktop false`
+defaults write com.apple.finder CreateDesktop false
 ```
 
 - Show hidden files
@@ -61,7 +61,9 @@ XCode is a suite of development tools and libraries from Apple.
 
 An additional package that other programs will depend on.
 
-1. `xcode-select --install`
+```shell
+xcode-select --install
+```
 
 #### Install Homebrew
 
@@ -69,37 +71,44 @@ An additional package that other programs will depend on.
 
 ```shell
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew update
 ```
-
-1. `brew update`
 
 #### Install Git
 
 [Git](https://git-scm.com/) is a version control system for software development and collaboration.
 
-1. `brew install git`
-1. `git config --global user.name "Firstname Lastname"`
-1. `git config --global user.email username@email.com`
+```shell
+brew install git
+git config --global user.name "Tania Rascia"
+git config --global user.email taniarascia@gmail.com
+```
 
 #### Install Node.js
 
 [Node.js](https://git-scm.com/) is used to run server-side JavaScript.
 
-1. `brew install node`
+```shell
+brew install node
+```
 
 #### Install Gulp
 
 [Gulp](http://gulpjs.com/) is a JavaScript task runner.
 
-1. `npm install --global gulp-cli`
+```shell
+npm install --global gulp-cli
+```
 
 #### Install Vim
 
 [Vim](http://www.vim.org/) is a text editor that runs in the terminal.
 
-1. `git clone https://github.com/vim/vim.git`
-1. `cd vim/src`
-1. `make`
+```shell
+git clone https://github.com/vim/vim.git
+cd vim/src
+make
+```
 
 ### Dotfiles
 
@@ -109,7 +118,7 @@ Extra configuration files.
 
 Location: `~/.ssh/config`
 
-```
+```shell
 Host example
  HostName example.com
  User example-user
@@ -122,7 +131,7 @@ Command: `ssh example` will output `ssh -i key.pem example-user@example.com`
 
 Location: `~/.gitconfig`
 
-```
+```shell
 [alias]
 	c = commit -am
 	s = status
