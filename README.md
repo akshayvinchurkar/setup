@@ -126,9 +126,10 @@ Host example
 
 ## Stack
 
-> The platform used for web development.
+> The software bundle used for web development.
 
-### [Linux Apache MySQL PHP (LAMP)](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
+### **I use:**  [Linux Apache MySQL PHP (LAMP)](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
+**Other Options:** [Mean](http://mean.io/), 
 
 ## Text Editor / IDE
 
