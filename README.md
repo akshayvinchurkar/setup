@@ -91,7 +91,7 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 ### **I use:** [Brackets](http://brackets.io/)
 **Other Options:** [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](http://code.visualstudio.com/)
 
-#### Install Extensions
+### Extensions
 
 All extensions are installed by going to `File > Extension Manager`.
 
@@ -101,6 +101,26 @@ All extensions are installed by going to `File > Extension Manager`.
 1. [Custom Working Tabs](https://github.com/DH3ALEJANDRO/custom-work-for-brackets)
 1. [Indent Guides](https://github.com/lkcampbell/brackets-indent-guides)
 1. [Color Highlighter](https://github.com/Taraflex/Brackets-Color-Highlighter)
+
+### Configuration
+
+```js
+{
+    "styleActiveLine": true,
+    "themes.theme": "new-moon",
+    "brackets-indent-guides.enabled": true,
+    "useTabChar": true,
+    "spaceUnits": 2,
+    "tabSize": 2,
+    "closeTags": {
+        "whenOpening": false,
+        "whenClosing": true,
+        "indentTags": []
+    },
+    "fonts.fontSize": "14.5px",
+    "fonts.fontFamily": "'Menlo', 'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace"
+ }
+ ```
 
 ## Version Control
 
