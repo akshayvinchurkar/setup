@@ -27,8 +27,9 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 ### Configuration
 
-* Hide desktop: `defaults write com.apple.finder CreateDesktop false`
+* Hide desktop icons: `defaults write com.apple.finder CreateDesktop false`
 * Show hidden files: `defaults write com.apple.finder AppleShowAllFiles YES`
+* Show path bar in finder: `defaults write com.apple.finder ShowPathbar -bool true`
 
 #### Install XCode
 
@@ -50,6 +51,8 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 #### Install Git
 
 1. `brew install git`
+1. `git config --global user.name "Firstname Lastname"`
+1. `git config --global user.email username@email.com`
 
 #### Install Gulp
 
@@ -64,7 +67,7 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 ## Browser
 
-The program for navigating the internet.
+The program used for navigating the internet.
 
 ### [Google Chrome](https://www.google.com/chrome/)
 
@@ -89,6 +92,32 @@ The platform used for web development.
 The program used to write code and edit text files.
 
 ### [Brackets](http://brackets.io/)
+
+All extensions are installed by going to `File > Extension Manager`.
+
+#### Install Color Theme
+
+1. [New Moon](https://github.com/taniarascia/new-moon)
+
+#### Install Emmet
+
+1. [Emmet](https://github.com/emmetio/brackets-emmet)
+
+#### Install Beautify
+
+1. [Beautify](https://github.com/brackets-beautify/brackets-beautify)
+
+#### Install Custom Working Tabs
+
+1. [Custom Working Tabs](https://github.com/DH3ALEJANDRO/custom-work-for-brackets)
+
+#### Install Indent Guides
+
+1. [Indent Guides](https://github.com/lkcampbell/brackets-indent-guides)
+
+#### Install Color Highlighter
+
+1. [Color Highlighter](https://github.com/Taraflex/Brackets-Color-Highlighter)
 
 > **Other Options:** [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](http://code.visualstudio.com/)
 
