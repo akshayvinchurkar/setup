@@ -63,7 +63,7 @@
 
 ## Version Control
 
-### GitHub
+### [GitHub](https://github.com/)
 
 #### Options
 
@@ -73,11 +73,11 @@
 
 ## Content Management System (CMS)
 
-### WordPress
+### [WordPress](https://wordpress.org/)
 
 ## JS Task Runner
 
-### Gulp
+### [Gulp](http://gulpjs.com/)
 
 #### Options
 
@@ -86,7 +86,7 @@
 
 ## CSS Preprocessor
 
-### Sass
+### [Sass](http://sass-lang.com/)
 
 #### Options
 
@@ -95,7 +95,7 @@
 
 ## CSS Framework
 
-### Primitive
+### [Primitive](https://taniarascia.github.io/primitive/)
 
 ### Options
 
