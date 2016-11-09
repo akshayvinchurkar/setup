@@ -188,6 +188,8 @@ As a front end web developer, you should have all the browsers downloaded for te
 ### **I use:** [Brackets](http://brackets.io/)
 **Other Options:** [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](http://code.visualstudio.com/)
 
+Brackets is not the most popular choice for text editors, but after downloading and playing around with a few different ones, it remains my favorite. The delay that VSC and Atom have with syntax highlighting bothers me too much. I like to refrain from relying on a text editor for doing things like minification and compiling Sass. 
+
 ### Extensions
 
 All extensions are installed by going to `File > Extension Manager`.
