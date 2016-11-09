@@ -1,6 +1,19 @@
 # Web Developer Setup
 
-## System
+1. [Operating System](#operating-system)
+1. [Browser](#browser)
+1. [Hosting](#hosting)
+1. [Stack](#stack)
+1. [Text Editor/IDE](#text-editor-ide)
+1. [Version Control](#version-control)
+1. [Content Management System](#content-management-system)
+1. [JS Task Runner](#js-task-runner)
+1. [CSS Preprocessor](#css-preprocessor)
+1. [CSS Framework](#css-framework)
+1. [Content Delivery Network](#content-delivery-network)
+1. [Miscellaneous](#miscellaneous)
+
+## Operating System
 
 macOS
 
@@ -12,7 +25,11 @@ Chrome
 
 NFS
 
-## Text Editor
+## Stack
+
+LAMP
+
+## Text Editor / IDE
 
 Brackets
 
@@ -24,19 +41,19 @@ GitHub
 
 WordPress
 
-## CSS Framework
+## JS Task Runner
 
-Primitive
+Gulp
 
 ## CSS Preprocessor
 
 Sass
 
-## JS Task Runner
+## CSS Framework
 
-Gulp
+Primitive
 
-## CDN
+## Content Delivery Network
 
 Cloudflare
 
@@ -44,8 +61,9 @@ Cloudflare
 
 Google Analytics
 
-## Notes
+## Miscellaneous
 
 Evernote
+Slack
 
 
