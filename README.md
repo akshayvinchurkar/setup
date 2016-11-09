@@ -93,30 +93,15 @@ The program used to write code and edit text files.
 
 ### [Brackets](http://brackets.io/)
 
+#### Install Extensions
+
 All extensions are installed by going to `File > Extension Manager`.
 
-#### Install Color Theme
-
-1. [New Moon](https://github.com/taniarascia/new-moon)
-
-#### Install Emmet
-
+1. [New Moon Color Theme](https://github.com/taniarascia/new-moon)
 1. [Emmet](https://github.com/emmetio/brackets-emmet)
-
-#### Install Beautify
-
 1. [Beautify](https://github.com/brackets-beautify/brackets-beautify)
-
-#### Install Custom Working Tabs
-
 1. [Custom Working Tabs](https://github.com/DH3ALEJANDRO/custom-work-for-brackets)
-
-#### Install Indent Guides
-
 1. [Indent Guides](https://github.com/lkcampbell/brackets-indent-guides)
-
-#### Install Color Highlighter
-
 1. [Color Highlighter](https://github.com/Taraflex/Brackets-Color-Highlighter)
 
 > **Other Options:** [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](http://code.visualstudio.com/)
