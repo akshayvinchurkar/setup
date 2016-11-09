@@ -118,7 +118,7 @@ All extensions are installed by going to `File > Extension Manager`.
         "indentTags": []
     },
     "fonts.fontSize": "14.5px",
-    "fonts.fontFamily": "'Menlo', 'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace"
+    "fonts.fontFamily": "'Menlo', monospace"
  }
  ```
 
