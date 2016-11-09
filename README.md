@@ -6,11 +6,11 @@
 * [Stack](#stack)
 * [Hosting / Cloud Computing](#hosting--cloud-computing)
 * [Version Control](#version-control)
-* [Content Management System](#content-management-system)
+* [Content Management System (CMS)](#content-management-system--cms)
 * [JS Task Runner](#js-task-runner)
 * [CSS Preprocessor](#css-preprocessor)
 * [CSS Framework](#css-framework)
-* [Content Delivery Network](#content-delivery-network)
+* [Content Delivery Network (CDN)](#content-delivery-network--cdn)
 * [Miscellaneous](#miscellaneous)
 
 ## Operating System
