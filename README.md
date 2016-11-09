@@ -2,9 +2,9 @@
 
 * [Operating System](#operating-system)
 * [Browser](#browser)
-* [Hosting](#hosting)
-* [Stack](#stack)
 * [Text Editor/IDE](#text-editor-ide)
+* [Stack](#stack)
+* [Hosting](#hosting)
 * [Version Control](#version-control)
 * [Content Management System](#content-management-system)
 * [JS Task Runner](#js-task-runner)
