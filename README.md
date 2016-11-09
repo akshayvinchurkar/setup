@@ -44,7 +44,7 @@ Host example
  IdentityFile key.pem
 ```
 
-## Git
+#### Git
 
 `~/.gitconfig`
 
