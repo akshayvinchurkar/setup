@@ -53,7 +53,10 @@ An additional package that other programs will depend on.
 
 [Homebrew](http://brew.sh/) is a package manager for macOS that makes it easy to install software.
 
-1. `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+```shell
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
 1. `brew update`
 
 #### Install Git
@@ -129,6 +132,8 @@ Location: `~/.gitconfig`
 
 ### **I use:** [Google Chrome](https://www.google.com/chrome/)
 **Other Options:**  [Firefox](https://www.mozilla.org/en-US/firefox/products/), [Opera](http://www.opera.com/), [Safari](http://www.apple.com/safari/) (Mac only), [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge) (Windows only)
+
+As a front end web developer, you should have all the browsers downloaded for testing. If you're in an Apple environment, you can download virtual machines or generate screenshots of Edge at the [Microsoft Developer Tools](https://developer.microsoft.com/en-us/microsoft-edge/tools/) website.
 
 ### Extensions
 
