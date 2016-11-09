@@ -120,9 +120,9 @@ Location: `~/.ssh/config`
 
 ```shell
 Host example
- HostName example.com
- User example-user
- IdentityFile key.pem
+    HostName example.com
+    User example-user
+    IdentityFile key.pem
 ```
 
 Command: `ssh example` will output `ssh -i key.pem example-user@example.com`
