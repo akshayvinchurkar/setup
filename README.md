@@ -2,7 +2,7 @@
 
 * [Operating System](#operating-system)
 * [Browser](#browser)
-* [Text Editor/IDE](#text-editor-ide)
+* [Text Editor / IDE](#text-editor-ide)
 * [Stack](#stack)
 * [Hosting / Cloud Computing](#hosting-cloud-computing)
 * [Version Control](#version-control)
@@ -10,7 +10,7 @@
 * [JS Task Runner](#js-task-runner)
 * [CSS Preprocessor](#css-preprocessor)
 * [CSS Framework](#css-framework)
-* [Content Delivery Network](#content-delivery-network)
+* [Content Delivery Network](#content-delivery-network-cdn)
 * [Miscellaneous](#miscellaneous)
 
 ## Operating System
