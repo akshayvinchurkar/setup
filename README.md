@@ -18,7 +18,8 @@
 ### macOS
 
 #### Options
-* [Windows](https://www.microsoft.com/en-us/windows?), [Linux](https://en.wikipedia.org/wiki/Linux)
+* [Windows](https://www.microsoft.com/en-us/windows)
+* [Linux](https://en.wikipedia.org/wiki/Linux)
 
 ## Browser
 
