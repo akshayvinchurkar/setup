@@ -32,6 +32,8 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 * Show hidden files: `defaults write com.apple.finder AppleShowAllFiles YES`
 * Show path bar in finder: `defaults write com.apple.finder ShowPathbar -bool true`
 
+### Installations
+
 #### Install XCode
 
 1. Download [XCode](Xcode)
