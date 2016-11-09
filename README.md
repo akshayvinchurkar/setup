@@ -33,31 +33,6 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 - Show hidden files: `defaults write com.apple.finder AppleShowAllFiles YES`
 - Show path bar in finder: `defaults write com.apple.finder ShowPathbar -bool true`
 
-#### SSH
-
-`~/.ssh/config`
-
-```
-Host example
- HostName example.com
- User example-user
- IdentityFile key.pem
-```
-
-#### Git
-
-`~/.gitconfig`
-
-```
-[alias]
-	c = commit -am
-	s = status
-	a = add
-	pom = push origin master
-	pog = push origin gh-pages
-	cob = checkout -b
- ```
-
 ### Installations
 
 #### Install XCode
@@ -93,7 +68,34 @@ Host example
 1. `cd vim/src`
 1. `make`
 
-#### Additional Programs
+### Dotfiles
+
+#### SSH
+
+`~/.ssh/config`
+
+```
+Host example
+ HostName example.com
+ User example-user
+ IdentityFile key.pem
+```
+
+#### Git
+
+`~/.gitconfig`
+
+```
+[alias]
+	c = commit -am
+	s = status
+	a = add
+	pom = push origin master
+	pog = push origin gh-pages
+	cob = checkout -b
+ ```
+ 
+### Additional Programs
 
 - [Spectacle](https://www.spectacleapp.com/) - simplified window resizing.
 - [Sip](http://sipapp.io/) - collect the code for any color on your screen.
