@@ -23,26 +23,13 @@
 
 ### [Google Chrome](https://www.google.com/chrome/)
 
-#### Options
-
-* [Firefox](https://www.mozilla.org/en-US/firefox/products/)
-* [Opera](http://www.opera.com/)
-* [Safari](http://www.apple.com/safari/) (Mac only)
-* [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge) (Windows only)
+> **Other Options**  [Firefox](https://www.mozilla.org/en-US/firefox/products/), [Opera](http://www.opera.com/), [Safari](http://www.apple.com/safari/) (Mac only), [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge) (Windows only)
 
 ## Hosting / Cloud Computing
 
 ### [NearlyFreeSpeech](https://www.nearlyfreespeech.net/)
 
-#### Options
-
-* **Cloud Computing**
- * [Amazon Web Services (AWS)](https://aws.amazon.com/)
- * [Digital Ocean](https://www.digitalocean.com/)
-* **Hosting**
- * [MediaTemple](https://www.mediatemple.net/) 
- * [DreamHost](https://www.dreamhost.com/)
- * [Rackspace](https://www.rackspace.com/)
+> **Other Options** [Amazon Web Services (AWS)](https://aws.amazon.com/), [Digital Ocean](https://www.digitalocean.com/), [MediaTemple](https://www.mediatemple.net/), [Rackspace](https://www.rackspace.com/)
 
 ## Stack
 
@@ -52,21 +39,13 @@
 
 ### [Brackets](http://brackets.io/)
 
-#### Options
-
-* [Sublime Text](https://www.sublimetext.com/)
-* [Atom](https://atom.io/)
-* [Visual Studio Code](http://code.visualstudio.com/)
+> **Other Options** [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](http://code.visualstudio.com/)
 
 ## Version Control
 
 ### [GitHub](https://github.com/)
 
-#### Options
-
-* [BitBucket](https://bitbucket.org)
-* [GitLab](https://about.gitlab.com/)
-* [AWS CodeCommit](https://aws.amazon.com/codecommit/)
+> **Other Options** [BitBucket](https://bitbucket.org), [GitLab](https://about.gitlab.com/), [AWS CodeCommit](https://aws.amazon.com/codecommit/)
 
 ## Content Management System (CMS)
 
@@ -76,46 +55,31 @@
 
 ### [Gulp](http://gulpjs.com/)
 
-#### Options
-
-* [Grunt](http://gruntjs.com/)
-* [Brunch](http://brunch.io/)
+> **Other Options** [Grunt](http://gruntjs.com/), [Brunch](http://brunch.io/)
 
 ## CSS Preprocessor
 
 ### [Sass](http://sass-lang.com/)
 
-#### Options
-
-* [LESS](http://lesscss.org/)
-* [Stylus](http://stylus-lang.com/)
+> **Other Options** [LESS](http://lesscss.org/), [Stylus](http://stylus-lang.com/)
 
 ## CSS Framework
 
 ### [Primitive](https://taniarascia.github.io/primitive/)
 
-### Options
-
-* [Bootstrap](http://getbootstrap.com/)
-* [Foundation](http://foundation.zurb.com/)
-* [Semantic UI](http://semantic-ui.com/)
-* [Skeleton](http://getskeleton.com/)
+> **Other Options** [Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/)
 
 ## Encryption (TLS/SSL)
 
 ### [ComodoSSL](https://comodosslstore.com/)
 
-#### Options
-
-* [Let's Encrypt](https://letsencrypt.org/)
+> **Other Options** [Let's Encrypt](https://letsencrypt.org/)
 
 ## Content Delivery Network (CDN)
 
 ### [Cloudflare](https://www.cloudflare.com/)
 
-#### Options
-* [MaxCDN](https://www.maxcdn.com/)
-* [AWS CloudFront](https://aws.amazon.com/cloudfront/)
+> **Other Options** [MaxCDN](https://www.maxcdn.com/), [AWS CloudFront](https://aws.amazon.com/cloudfront/)
 
 ## Analytics
 
