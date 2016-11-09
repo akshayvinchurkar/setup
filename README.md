@@ -86,9 +86,11 @@ An additional package that other programs will depend on.
 
 ### Dotfiles
 
+Extra configuration files.
+
 #### SSH
 
-`~/.ssh/config`
+Location: `~/.ssh/config`
 
 ```
 Host example
@@ -97,9 +99,11 @@ Host example
  IdentityFile key.pem
 ```
 
+Command: `ssh example` will output `ssh -i key.pem example-user@example.com`
+
 #### Git
 
-`~/.gitconfig`
+Location: `~/.gitconfig`
 
 ```
 [alias]
@@ -110,6 +114,8 @@ Host example
 	pog = push origin gh-pages
 	cob = checkout -b
  ```
+ 
+ Command: `git pom` will output `git push origin master`
  
 ### Additional Programs
 
