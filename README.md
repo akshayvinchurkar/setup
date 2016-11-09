@@ -1,6 +1,6 @@
 # Front End Web Developer Setup
 
-I'm Tania, a self-taught web developer who has been working professionally in the field since June, 2015. I also have a [blog of web development tutorials and articles](https://www.taniarascia.com/) I work on in my spare time. I'm going to write about the setup, programs, and plugins I use on a daily basis with some brief descriptions and alternate options. This is not meant to be an extensive list. This is my list.
+I'm Tania, a self-taught web developer who has been working professionally in the field since June, 2015. I also have a [blog of web development tutorials and articles](https://www.taniarascia.com/) I work on in my spare time. I'm going to write about the setup, programs, and plugins I use on a daily basis with some brief descriptions and alternate options. This is not meant to be an extensive list; this is my list.
 
 ## Contents
 
@@ -61,10 +61,16 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 1. `npm install --global gulp-cli`
 
+#### Install Vim
+
+1. `git clone https://github.com/vim/vim.git`
+1. `cd vim/src`
+1. `make`
+
 #### Additional Programs
 
-1. [Spectacle](https://www.spectacleapp.com/)
-1. [Sip](http://sipapp.io/)
+* [Spectacle](https://www.spectacleapp.com/)
+* [Sip](http://sipapp.io/)
 
 ## Browser
 
