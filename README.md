@@ -17,7 +17,7 @@
 
 ### macOS
 
-##### Options
+#### Options
 * [Windows](https://www.microsoft.com/en-us/windows?), [Linux](https://en.wikipedia.org/wiki/Linux)
 
 ## Browser
@@ -28,10 +28,10 @@
 
 ### NearlyFreeSpeech
 
-##### Options
+#### Options
 
 * Hosting - [MediaTemple](https://www.mediatemple.net/) 
-* Cloud Computing - [Amazon Web Services](https://aws.amazon.com/), [Digital Ocean](https://www.digitalocean.com/)
+* Cloud Computing - [Amazon Web Services (AWS)](https://aws.amazon.com/), [Digital Ocean](https://www.digitalocean.com/)
 
 ## Stack
 
@@ -45,31 +45,58 @@
 
 ## Version Control
 
-GitHub
+### GitHub
 
-## Content Management System
+#### Options
 
-WordPress
+* [BitBucket](https://bitbucket.org)
+* [GitLab](https://about.gitlab.com/)
+* [AWS CodeCommit](https://aws.amazon.com/codecommit/)
+
+## Content Management System (CMS)
+
+### WordPress
 
 ## JS Task Runner
 
-Gulp
+### Gulp
+
+#### Options
+
+* [Grunt](http://gruntjs.com/)
+* [Brunch](http://brunch.io/)
 
 ## CSS Preprocessor
 
-Sass
+### Sass
+
+#### Options
+
+* [LESS](http://lesscss.org/)
+* [Stylus](http://stylus-lang.com/)
 
 ## CSS Framework
 
-Primitive
+### Primitive
 
-## Content Delivery Network
+### Options
 
-Cloudflare
+* [Bootstrap](http://getbootstrap.com/)
+* [Foundation](http://foundation.zurb.com/)
+* [Semantic UI](http://semantic-ui.com/)
+* [Skeleton](http://getskeleton.com/)
+
+## Content Delivery Network (CDN)
+
+### Cloudflare
+
+#### Options
+* [MaxCDN](https://www.maxcdn.com/)
+* [AWS CloudFront](https://aws.amazon.com/cloudfront/)
 
 ## Analytics
 
-Google Analytics
+### Google Analytics
 
 ## Miscellaneous
 
