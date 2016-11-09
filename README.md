@@ -25,6 +25,11 @@ The software a computer runs on.
 
 I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently running the Sierra macOS.
 
+### Configuration
+
+* Hide desktop: `defaults write com.apple.finder CreateDesktop false`
+* Show hidden files: `defaults write com.apple.finder AppleShowAllFiles YES`
+
 #### Install XCode
 
 1. Download [XCode](Xcode)
@@ -36,14 +41,24 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 #### Install Homebrew
 
 1. `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+1. `brew update`
 
-#### Install Node
+#### Install Node.js
 
 1. `brew install node`
 
 #### Install Git
 
 1. `brew install git`
+
+#### Install Gulp
+
+1. `npm install --global gulp-cli`
+
+#### Additional Programs
+
+1. [Spectacle](https://www.spectacleapp.com/)
+1. [Sip](http://sipapp.io/)
 
 > **Other Options:** [Windows](https://www.microsoft.com/en-us/windows), [Linux](https://en.wikipedia.org/wiki/Linux)
 
