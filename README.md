@@ -44,6 +44,20 @@ Host example
  IdentityFile key.pem
 ```
 
+## Git
+
+`~/.gitconfig`
+
+```
+[alias]
+	c = commit -am
+	s = status
+	a = add
+	pom = push origin master
+	pog = push origin gh-pages
+	cob = checkout -b
+ ```
+
 ### Installations
 
 #### Install XCode
@@ -217,5 +231,9 @@ All extensions are installed by going to `File > Extension Manager`.
 - Vagrant
 - VirtualBox
 - Docker
+- Composer
+- JavaScript frameworks (React, Angular, Vue)
+- Programming languages besides PHP and JS
+- A lot of other stuff
 
 
