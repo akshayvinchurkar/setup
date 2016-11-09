@@ -126,7 +126,7 @@
 
 ## Miscellaneous
 
-Evernote
-Slack
+* [Evernote](https://evernote.com/)
+* [Slack](https://slack.com/)
 
 
