@@ -51,6 +51,8 @@
 
 ### [WordPress](https://wordpress.org/)
 
+> **Other Options** [Jekyll](https://jekyllrb.com)
+
 ## JS Task Runner
 
 ### [Gulp](http://gulpjs.com/)
