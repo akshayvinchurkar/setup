@@ -34,7 +34,7 @@
 
 ## Hosting / Cloud Computing
 
-### NearlyFreeSpeech
+### [NearlyFreeSpeech](https://www.nearlyfreespeech.net/)
 
 #### Options
 
@@ -48,11 +48,11 @@
 
 ## Stack
 
-### Linux Apache MySQL PHP (LAMP)
+### [Linux Apache MySQL PHP (LAMP)](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
 
 ## Text Editor / IDE
 
-### Brackets
+### [Brackets](http://brackets.io/)
 
 #### Options
 
@@ -60,11 +60,6 @@
 * [Atom](https://atom.io/)
 * [Visual Studio Code](http://code.visualstudio.com/)
 * [Notepad++](https://notepad-plus-plus.org/) (Windows only)
-
-#### Options
-
-
-##### Options
 
 ## Version Control
 
