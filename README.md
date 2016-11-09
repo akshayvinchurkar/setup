@@ -4,7 +4,7 @@
 * [Browser](#browser)
 * [Text Editor/IDE](#text-editor-ide)
 * [Stack](#stack)
-* [Hosting](#hosting)
+* [Hosting / Cloud Computing](#hosting-cloud-computing)
 * [Version Control](#version-control)
 * [Content Management System](#content-management-system)
 * [JS Task Runner](#js-task-runner)
@@ -17,23 +17,31 @@
 
 ### macOS
 
-Options: Windows, Linux
+##### Options
+* [Windows](https://www.microsoft.com/en-us/windows?), [Linux](https://en.wikipedia.org/wiki/Linux)
 
 ## Browser
 
-Chrome
+### Google Chrome
 
-## Hosting
+## Hosting / Cloud Computing
 
-NFS
+### NearlyFreeSpeech
+
+##### Options
+
+* Hosting - [MediaTemple](https://www.mediatemple.net/) 
+* Cloud Computing - [Amazon Web Services](https://aws.amazon.com/), [Digital Ocean](https://www.digitalocean.com/)
 
 ## Stack
 
-LAMP
+### LAMP
 
 ## Text Editor / IDE
 
-Brackets
+### Brackets
+
+##### Options
 
 ## Version Control
 
