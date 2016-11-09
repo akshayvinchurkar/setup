@@ -1,5 +1,7 @@
 # Front End Web Developer Setup
 
+*11/9/2016*
+
 I'm Tania, a self-taught web developer who has been working professionally in the field since June, 2015. I also have a [blog of web development tutorials and articles](https://www.taniarascia.com/) I work on in my spare time. I'm going to write about the setup, programs, and plugins I use on a daily basis with some brief descriptions and alternate options. This is not meant to be an extensive list; this is my list.
 
 ## Contents
@@ -24,7 +26,7 @@ I'm Tania, a self-taught web developer who has been working professionally in th
 ### **I use:** [macOS (Apple)](http://www.apple.com/macos/sierra/)
 **Other Options:** [Windows](https://www.microsoft.com/en-us/windows), [Linux](https://en.wikipedia.org/wiki/Linux)
 
-I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently running the Sierra macOS.
+I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently running Sierra. One of the biggest game changers for my web development journey was learning how to use the command line, which is done through the Terminal application in macOS. 
 
 ### Configuration
 
