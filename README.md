@@ -22,6 +22,7 @@ I'm Tania, a self-taught web developer who has been working professionally in th
 > The software a computer runs on.
 
 ### [macOS (Apple)](http://www.apple.com/macos/sierra/)
+##### **Other Options:** [Windows](https://www.microsoft.com/en-us/windows), [Linux](https://en.wikipedia.org/wiki/Linux)
 
 I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently running the Sierra macOS.
 
@@ -63,7 +64,6 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 1. [Spectacle](https://www.spectacleapp.com/)
 1. [Sip](http://sipapp.io/)
 
-##### **Other Options:** [Windows](https://www.microsoft.com/en-us/windows), [Linux](https://en.wikipedia.org/wiki/Linux)
 
 ## Browser
 
