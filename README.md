@@ -212,7 +212,7 @@ All extensions are installed by going to `File > Extension Manager`.
 
 ## Content Delivery Network (CDN)
 
-> Geographically dispersed servers that cache website content.
+> Deliver cached website content to geographically dispersed servers.
 
 ### **I use:** [Cloudflare](https://www.cloudflare.com/)
 **Other Options:** [MaxCDN](https://www.maxcdn.com/), [AWS CloudFront](https://aws.amazon.com/cloudfront/)
@@ -237,5 +237,3 @@ All extensions are installed by going to `File > Extension Manager`.
 - JavaScript frameworks (React, Angular, Vue)
 - Programming languages besides PHP and JS
 - A lot of other stuff
-
-
