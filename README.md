@@ -31,9 +31,23 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 ### Configuration
 
 - Allow app installation: `Security and Privacy -> General -> Allow apps from identified developers`
-- Hide desktop icons: `defaults write com.apple.finder CreateDesktop false`
-- Show hidden files: `defaults write com.apple.finder AppleShowAllFiles YES`
-- Show path bar in finder: `defaults write com.apple.finder ShowPathbar -bool true`
+- Hide desktop icons
+
+```shell
+defaults write com.apple.finder CreateDesktop false`
+```
+
+- Show hidden files
+
+```shell
+defaults write com.apple.finder AppleShowAllFiles YES
+```
+
+- Show path bar in finder
+
+```shell
+defaults write com.apple.finder ShowPathbar -bool true
+```
 
 ### Installations
 
