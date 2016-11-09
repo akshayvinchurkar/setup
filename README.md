@@ -1,5 +1,7 @@
 # Front End Web Developer Setup
 
+I'm Tania, a self-taught web developer who has been working professionally in the field since June, 2015. I also have a [blog of web development tutorials and articles](https://www.taniarascia.com/) I work on in my spare time. I'm going to write about the setup, programs, and plugins I use on a daily basis with some brief descriptions and alternate options. This is not meant to be an extensive list. This is my list.
+
 * [Operating System](#operating-system)
 * [Browser](#browser)
 * [Text Editor / IDE](#text-editor--ide)
