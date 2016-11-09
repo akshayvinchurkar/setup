@@ -15,7 +15,7 @@
 
 ## Operating System
 
-### macOS
+### [macOS (Apple)](http://www.apple.com/macos/sierra/)
 
 #### Options
 * [Windows](https://www.microsoft.com/en-us/windows)
@@ -23,7 +23,14 @@
 
 ## Browser
 
-### Google Chrome
+### [Google Chrome](https://www.google.com/chrome/)
+
+#### Options
+
+* [Firefox](https://www.mozilla.org/en-US/firefox/products/)
+* [Opera](http://www.opera.com/)
+* [Safari](http://www.apple.com/safari/) (Mac only)
+* [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge) (Windows only)
 
 ## Hosting / Cloud Computing
 
@@ -31,13 +38,13 @@
 
 #### Options
 
+* **Cloud Computing**
+ * [Amazon Web Services (AWS)](https://aws.amazon.com/)
+ * [Digital Ocean](https://www.digitalocean.com/)
 * **Hosting**
  * [MediaTemple](https://www.mediatemple.net/) 
  * [DreamHost](https://www.dreamhost.com/)
  * [Rackspace](https://www.rackspace.com/)
-* **Cloud Computing**
- * [Amazon Web Services (AWS)](https://aws.amazon.com/)
- * [Digital Ocean](https://www.digitalocean.com/)
 
 ## Stack
 
@@ -46,6 +53,16 @@
 ## Text Editor / IDE
 
 ### Brackets
+
+#### Options
+
+* [Sublime Text](https://www.sublimetext.com/)
+* [Atom](https://atom.io/)
+* [Visual Studio Code](http://code.visualstudio.com/)
+* [Notepad++](https://notepad-plus-plus.org/) (Windows only)
+
+#### Options
+
 
 ##### Options
 
@@ -91,6 +108,14 @@
 * [Foundation](http://foundation.zurb.com/)
 * [Semantic UI](http://semantic-ui.com/)
 * [Skeleton](http://getskeleton.com/)
+
+## Encryption (TLS/SSL)
+
+### ComodoSSL
+
+#### Options
+
+* [Let's Encrypt](https://letsencrypt.org/)
 
 ## Content Delivery Network (CDN)
 
