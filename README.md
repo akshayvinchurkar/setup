@@ -30,8 +30,11 @@
 
 #### Options
 
-* Hosting - [MediaTemple](https://www.mediatemple.net/) 
-* Cloud Computing - [Amazon Web Services (AWS)](https://aws.amazon.com/), [Digital Ocean](https://www.digitalocean.com/)
+* **Hosting**
+ * [MediaTemple](https://www.mediatemple.net/) 
+* **Cloud Computing**
+ * [Amazon Web Services (AWS)](https://aws.amazon.com/)
+ * [Digital Ocean](https://www.digitalocean.com/)
 
 ## Stack
 
