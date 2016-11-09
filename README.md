@@ -17,9 +17,7 @@
 
 ### [macOS (Apple)](http://www.apple.com/macos/sierra/)
 
-#### Options
-* [Windows](https://www.microsoft.com/en-us/windows)
-* [Linux](https://en.wikipedia.org/wiki/Linux)
+> **Other Options** [Windows](https://www.microsoft.com/en-us/windows), [Linux](https://en.wikipedia.org/wiki/Linux)
 
 ## Browser
 
@@ -59,7 +57,6 @@
 * [Sublime Text](https://www.sublimetext.com/)
 * [Atom](https://atom.io/)
 * [Visual Studio Code](http://code.visualstudio.com/)
-* [Notepad++](https://notepad-plus-plus.org/) (Windows only)
 
 ## Version Control
 
