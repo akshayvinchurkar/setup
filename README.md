@@ -39,32 +39,46 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 #### Install XCode
 
+XCode is a suite of development tools and libraries from Apple. 
+
 1. Download [XCode](Xcode)
 
 #### Install Command Line Tools
+
+An additional package that other programs will depend on.
 
 1. `xcode-select --install`
 
 #### Install Homebrew
 
+[Homebrew](http://brew.sh/) is a package manager for macOS that makes it easy to install software.
+
 1. `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 1. `brew update`
 
-#### Install Node.js
-
-1. `brew install node`
-
 #### Install Git
+
+[Git](https://git-scm.com/) is a version control system for software development and collaboration.
 
 1. `brew install git`
 1. `git config --global user.name "Firstname Lastname"`
 1. `git config --global user.email username@email.com`
 
+#### Install Node.js
+
+[Node.js](https://git-scm.com/) is used to run server-side JavaScript.
+
+1. `brew install node`
+
 #### Install Gulp
+
+[Gulp](http://gulpjs.com/) is a JavaScript task runner.
 
 1. `npm install --global gulp-cli`
 
 #### Install Vim
+
+[Vim](http://www.vim.org/) is a text editor that runs in the terminal.
 
 1. `git clone https://github.com/vim/vim.git`
 1. `cd vim/src`
