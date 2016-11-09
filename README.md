@@ -1,4 +1,4 @@
-# Web Developer Setup
+# Front End Web Developer Setup
 
 * [Operating System](#operating-system)
 * [Browser](#browser)
