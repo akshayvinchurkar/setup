@@ -72,6 +72,7 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 - [Spectacle](https://www.spectacleapp.com/) - simplified window resizing.
 - [Sip](http://sipapp.io/) - collect the code for any color on your screen.
+- [GistBox](http://www.gistboxapp.com/) - organize code snippets.
 
 ## Browser
 
@@ -79,6 +80,13 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 ### **I use:** [Google Chrome](https://www.google.com/chrome/)
 **Other Options:**  [Firefox](https://www.mozilla.org/en-US/firefox/products/), [Opera](http://www.opera.com/), [Safari](http://www.apple.com/safari/) (Mac only), [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge) (Windows only)
+
+### Extensions
+
+- [AdBlock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en-US)
+- [Awesome Screenshot Capture](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+- [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp)
+- 
 
 ## Hosting / Cloud Computing
 
