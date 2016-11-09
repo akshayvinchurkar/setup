@@ -19,7 +19,7 @@ I'm Tania, a self-taught web developer who has been working professionally in th
 
 ## Operating System
 
-The software a computer runs on.
+> The software a computer runs on.
 
 ### [macOS (Apple)](http://www.apple.com/macos/sierra/)
 
@@ -63,33 +63,33 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 1. [Spectacle](https://www.spectacleapp.com/)
 1. [Sip](http://sipapp.io/)
 
-> **Other Options:** [Windows](https://www.microsoft.com/en-us/windows), [Linux](https://en.wikipedia.org/wiki/Linux)
+##### **Other Options:** [Windows](https://www.microsoft.com/en-us/windows), [Linux](https://en.wikipedia.org/wiki/Linux)
 
 ## Browser
 
-The program used for navigating the internet.
+> The program used for navigating the internet.
 
 ### [Google Chrome](https://www.google.com/chrome/)
 
-> **Other Options:**  [Firefox](https://www.mozilla.org/en-US/firefox/products/), [Opera](http://www.opera.com/), [Safari](http://www.apple.com/safari/) (Mac only), [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge) (Windows only)
+##### **Other Options:**  [Firefox](https://www.mozilla.org/en-US/firefox/products/), [Opera](http://www.opera.com/), [Safari](http://www.apple.com/safari/) (Mac only), [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge) (Windows only)
 
 ## Hosting / Cloud Computing
 
-The service that allows a website to be viewed on the internet.
+> The service that allows a website to be viewed on the internet.
 
 ### [NearlyFreeSpeech](https://www.nearlyfreespeech.net/)
 
-> **Other Options:** [Amazon Web Services (AWS)](https://aws.amazon.com/), [Digital Ocean](https://www.digitalocean.com/), [MediaTemple](https://www.mediatemple.net/), [Rackspace](https://www.rackspace.com/)
+##### **Other Options:** [Amazon Web Services (AWS)](https://aws.amazon.com/), [Digital Ocean](https://www.digitalocean.com/), [MediaTemple](https://www.mediatemple.net/), [Rackspace](https://www.rackspace.com/)
 
 ## Stack
 
-The platform used for web development.
+> The platform used for web development.
 
 ### [Linux Apache MySQL PHP (LAMP)](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
 
 ## Text Editor / IDE
 
-The program used to write code and edit text files.
+> The program used to write code and edit text files.
 
 ### [Brackets](http://brackets.io/)
 
@@ -104,27 +104,27 @@ All extensions are installed by going to `File > Extension Manager`.
 1. [Indent Guides](https://github.com/lkcampbell/brackets-indent-guides)
 1. [Color Highlighter](https://github.com/Taraflex/Brackets-Color-Highlighter)
 
-> **Other Options:** [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](http://code.visualstudio.com/)
+##### **Other Options:** [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](http://code.visualstudio.com/)
 
 ## Version Control
 
-The Git repository hosting service used for keeping track of revisions and collaboration.
+> The Git repository hosting service used for keeping track of revisions and collaboration.
 
 ### [GitHub](https://github.com/)
 
-> **Other Options:** [BitBucket](https://bitbucket.org), [GitLab](https://about.gitlab.com/), [AWS CodeCommit](https://aws.amazon.com/codecommit/)
+##### **Other Options:** [BitBucket](https://bitbucket.org), [GitLab](https://about.gitlab.com/), [AWS CodeCommit](https://aws.amazon.com/codecommit/)
 
 ## Content Management System (CMS)
 
-The software used to create and manage a website through an admin dashboard.
+> The software used to create and manage a website through an admin dashboard.
 
 ### [WordPress](https://wordpress.org/)
 
-> **Other Options:** [Jekyll](https://jekyllrb.com)
+##### **Other Options:** [Jekyll](https://jekyllrb.com)
 
 ## JS Task Runner
 
-Automation for common repetitive tasks.
+> Command line automation for common repetitive tasks.
 
 ### [Gulp](http://gulpjs.com/)
 
@@ -132,39 +132,39 @@ Automation for common repetitive tasks.
 
 ## CSS Preprocessor
 
-Extend the features of CSS and compile it back into CSS.
+> Extend the features of CSS and compile it back into CSS.
 
 ### [Sass](http://sass-lang.com/)
 
-> **Other Options:** [LESS](http://lesscss.org/), [Stylus](http://stylus-lang.com/)
+##### **Other Options:** [LESS](http://lesscss.org/), [Stylus](http://stylus-lang.com/)
 
 ## CSS Framework
 
-A base stylesheet used as a starting point for designing a website.
+> A base stylesheet used as a starting point for designing a website.
 
 ### [Primitive](https://taniarascia.github.io/primitive/)
 
-> **Other Options:** [Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/)
+##### **Other Options:** [Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/)
 
 ## Encryption (TLS/SSL)
 
-Increase the security of data transmitted through the internet.
+> Protocal that increases the security of data transmitted through the internet.
 
 ### [ComodoSSL](https://comodosslstore.com/)
 
-> **Other Options:** [Let's Encrypt](https://letsencrypt.org/)
+##### **Other Options:** [Let's Encrypt](https://letsencrypt.org/)
 
 ## Content Delivery Network (CDN)
 
-Geographically dispersed servers that cache website content.
+> Geographically dispersed servers that cache website content.
 
 ### [Cloudflare](https://www.cloudflare.com/)
 
-> **Other Options:** [MaxCDN](https://www.maxcdn.com/), [AWS CloudFront](https://aws.amazon.com/cloudfront/)
+##### **Other Options:** [MaxCDN](https://www.maxcdn.com/), [AWS CloudFront](https://aws.amazon.com/cloudfront/)
 
 ## Analytics
 
-Track and report website traffic.
+> Track and report website traffic.
 
 ### [Google Analytics](https://analytics.google.com/)
 
