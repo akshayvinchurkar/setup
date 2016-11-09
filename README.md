@@ -15,7 +15,8 @@
 
 ## Operating System
 
-macOS
+* What I use: macOS
+* Other options: Windows, Linux
 
 ## Browser
 
