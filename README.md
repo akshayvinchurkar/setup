@@ -33,6 +33,17 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 - Show hidden files: `defaults write com.apple.finder AppleShowAllFiles YES`
 - Show path bar in finder: `defaults write com.apple.finder ShowPathbar -bool true`
 
+#### SSH
+
+`~/.ssh/config`
+
+```
+Host example
+ HostName example.com
+ User example-user
+ IdentityFile key.pem
+```
+
 ### Installations
 
 #### Install XCode
@@ -83,12 +94,12 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 ### Extensions
 
-- [AdBlock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en-US)
-- [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
-- [Sight](https://chrome.google.com/webstore/detail/sight/epmaefhielclhlnmjofcdapbeepkmggh)
-- [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
-- [Awesome Screenshot Capture](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)
-- [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp)
+- [AdBlock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en-US) - block ads.
+- [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - format JSON files.
+- [Sight](https://chrome.google.com/webstore/detail/sight/epmaefhielclhlnmjofcdapbeepkmggh) - add syntax highlighting to files.
+- [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) - add stylesheets to websites.
+- [Awesome Screenshot Capture](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) - take screenshots of websites.
+- [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp) - clean new tab page.
 
 ## Hosting / Cloud Computing
 
@@ -114,12 +125,12 @@ I used Windows exclusively from 1994 to 2015. Now I work on a Mac, currently run
 
 All extensions are installed by going to `File > Extension Manager`.
 
-1. [New Moon Color Theme](https://github.com/taniarascia/new-moon)
-1. [Emmet](https://github.com/emmetio/brackets-emmet)
-1. [Beautify](https://github.com/brackets-beautify/brackets-beautify)
-1. [Custom Working Tabs](https://github.com/DH3ALEJANDRO/custom-work-for-brackets)
-1. [Indent Guides](https://github.com/lkcampbell/brackets-indent-guides)
-1. [Color Highlighter](https://github.com/Taraflex/Brackets-Color-Highlighter)
+- [New Moon Color Theme](https://github.com/taniarascia/new-moon) - my color theme.
+- [Emmet](https://github.com/emmetio/brackets-emmet) - simplify writing HTML.
+- [Beautify](https://github.com/brackets-beautify/brackets-beautify) - formatting and indentation for files.
+- [Custom Working Tabs](https://github.com/DH3ALEJANDRO/custom-work-for-brackets) - add tabs.
+- [Indent Guides](https://github.com/lkcampbell/brackets-indent-guides) - add indent guides.
+- [Color Highlighter](https://github.com/Taraflex/Brackets-Color-Highlighter) - show colors.
 
 ### Configuration
 
