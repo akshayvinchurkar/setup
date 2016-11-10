@@ -6,7 +6,7 @@ I'm Tania, a self-taught web developer who has been working professionally in th
 
 ### Disclaimer
 
-It doesn't matter what you use. Mac or Windows. Vim or Emacs. Tabs or spaces. PHP or Python. If all the options didn't have merit, there wouldn't be an argument. This list is not meant to be an endorsement for or against anything, just one person's web development workflow. Learn. Be open minded. Try new things. Research. Discover what works best for you. This is not meant to be an extensive list; this is my list.
+It doesn't matter what you use: Mac or Windows. Vim or Emacs. Tabs or spaces. PHP or Python. If all the options didn't have merit, there wouldn't be an argument. This list is not meant to be an endorsement for or against anything, just one person's web development workflow. Learn. Be open minded. Try new things. Research. Discover what works best for you. This is not an extensive list; this is my list.
 
 ## Contents
 
@@ -131,7 +131,7 @@ Host example
     IdentityFile key.pem
 ```
 
-Command: `ssh example` will output `ssh -i key.pem example-user@example.com`
+Command: `ssh example` will output `ssh -i key.pem example-user@example.com`.
 
 #### Git
 
@@ -147,7 +147,7 @@ Location: `~/.gitconfig`
 	cob = checkout -b
  ```
  
- Command: `git pom` will output `git push origin master`
+ Command: `git pom` will output `git push origin master`.
  
 ### Additional Programs
 
@@ -256,6 +256,8 @@ GitHub is easily the most well-known place to host public and private Git reposi
 ### **I use:** [WordPress](https://wordpress.org/)
 **Other Options:** [Jekyll](https://jekyllrb.com)
 
+Currently, I use the WordPress CMS both for professional projects and my personal website. The alternative option is using a Static Site Generator like Jekyll and countless others, which have many advantages like speed and increased security. WordPress is extremely popular and extendable, and it works for me at the moment. I also like to play around with and learn other systems, so I might update or change my personal site in the future.
+
 ### Plugins
 
 - [Akismet](https://akismet.com/) - protect against comment spam.
@@ -294,12 +296,18 @@ Task runners like Gulp are useful for watching changes to files and performing t
 ### **I use:** [Primitive](https://taniarascia.github.io/primitive/)
 **Other Options:** [Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/)
 
+The first responsive designs I made were with Bootstrap, because I didn't yet understand the underlying concepts of grids, media queries, viewports, and so on. When I realized I didn't feel comfortable making a website without a framework, I sought to teach myself how to make a grid, navigation, and other UI elements from scratch. I started building all my websites that way, but when I realized I was re-writing a lot of the same code, I compiled it all into my own framework. Now I understand how my entire system works, only use exactly what I need, and I save a lot of time, with the added bonus of working on my documentation skills by making a page for it. 
+
+This has been my choice because I have the freedom to do so, but I also feel comfortable jumping into any framework if necessary.
+
 ## Encryption (TLS/SSL)
 
 > Protocal that increases the security of data transmitted through the internet.
 
 ### **I use:** [ComodoSSL](https://comodosslstore.com/)
 **Other Options:** [Let's Encrypt](https://letsencrypt.org/)
+
+Encrypted websites are becoming the standard, and there's no reason not to encrypt your site's traffic with a TLS certificate. I got a $10/year certificate through ComodoSSL, which was before I learned about Let's Encrypt, a free option. Either way, transmitted content through my website is more secure, and my site is more trustworthy.
 
 - Generate Certificate Request
 
@@ -333,15 +341,15 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 I pay for hosting based on bandwidth usage. Utilizing a CDN was as easy as pointing my name servers to Cloudflare's, and my bandwidth usage immediately dropped by at least 60%. My site got a speed and performance boost, I pay less for bandwidth, and it was fast and free to implement.
 
-## Analytics
-
-> Track and report website traffic.
-
-### **I use:** [Google Analytics](https://analytics.google.com/)
-
 ## Performance and Search Engine Optimization (SEO)
 
 > Improve speed, performance, and search rankings.
+
+### Analytics
+
+Track and report website traffic.
+
+### **I use:** [Google Analytics](https://analytics.google.com/)
 
 ## Miscellaneous
 
