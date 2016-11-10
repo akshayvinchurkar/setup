@@ -17,6 +17,8 @@ I'm Tania, a self-taught web developer who has been working professionally in th
 - [CSS Preprocessor](#css-preprocessor)
 - [CSS Framework](#css-framework)
 - [Content Delivery Network (CDN)](#content-delivery-network-cdn)
+- [Analytics](#analytics)
+- [Performance and Search Engine Optimization (SEO)](#performance-and-search-engine-optimization-seo)
 - [Miscellaneous](#miscellaneous)
 
 ## Operating System
@@ -179,7 +181,7 @@ As a front end web developer, you should have all the browsers downloaded for te
 > The software bundle used for web development.
 
 ### **I use:**  [Linux Apache MySQL PHP (LAMP)](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
-**Other Options:** [Mean](http://mean.io/), 
+**Other Options:** [MEAN](http://mean.io/) 
 
 ## Text Editor / IDE
 
@@ -188,7 +190,7 @@ As a front end web developer, you should have all the browsers downloaded for te
 ### **I use:** [Brackets](http://brackets.io/)
 **Other Options:** [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [Visual Studio Code](http://code.visualstudio.com/)
 
-Brackets is not the most popular choice for text editors, but after downloading and playing around with a few different ones, it remains my favorite. The delay that VSC and Atom have with syntax highlighting bothers me too much. I like to refrain from relying on a text editor for doing things like minification and compiling Sass. 
+Brackets is not the most popular choice for text editors, but after downloading and playing around with a few different ones, it remains my favorite. VSC and Atom have a delay with syntax highlighting that bothers me too much. I like to refrain from relying on a text editor for doing things like minification, prefixing, and compiling Sass, so I feel comfortable switching it up. I don't currently use an Integrated Development Environment (IDE). 
 
 ### Extensions
 
@@ -275,6 +277,10 @@ All extensions are installed by going to `File > Extension Manager`.
 > Track and report website traffic.
 
 ### **I use:** [Google Analytics](https://analytics.google.com/)
+
+## Performance and Search Engine Optimization (SEO)
+
+> Improve speed, performance, and search rankings.
 
 ## Miscellaneous
 
