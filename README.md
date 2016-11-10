@@ -61,7 +61,7 @@ defaults write com.apple.finder ShowPathbar -bool true
 
 XCode is a suite of development tools and libraries from Apple. 
 
-1. Download [XCode](Xcode)
+1. Download [XCode](https://developer.apple.com/xcode/)
 
 #### Install Command Line Tools
 
@@ -182,14 +182,21 @@ As a front end web developer, you should have all the browsers downloaded for te
 
 You have a choice between managed hosting, or setting up your own Virtual Private Server (VPS) in the cloud through services like Digital Ocean and AWS. The tradeoff is security and simplicity with managed hosting vs. having complete control and being able to keep prices down with a VPS. 
 
-I have some experience with both, and NearlyFreeSpeech has been a great middle ground for me. It's inexpensive, allows me more control than traditional shared hosting, and I don't have to worry about server security and upkeep. I might change my mind in the future, but for now, I've had only good experiences with NFS.
+I have some experience with both, and NearlyFreeSpeech has been a great middle ground for me. It's inexpensive, allows me more control than traditional shared hosting, and I don't have to worry about server security and upkeep. I might change my mind in the future, but for now, it works for me.
 
 ## Stack
 
 > The software bundle used for web development.
 
 ### **I use:**  [Linux Apache MySQL PHP (LAMP)](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
-**Other Options:** [MEAN](http://mean.io/) 
+**Other Options:** [MEAN](http://mean.io/)
+
+A stack describes the platform used for web development. The server my website runs on and the professional websites I've made have been on the LAMP stack, which has been a stable and popular choice for many years. The LAMP stack is a generalized name, as you can easily change out Linux for Windows, Apache for NGINX, MySQL for MariaDB, PHP for Python, and so on. Every layer in LAMP is free and open source.
+
+- **Operating System:** Linux (many distributions available)
+- **Web Server:** [Apache](https://www.apache.org/)
+- **Database:** [MySQL](https://www.mysql.com/)
+- **Language:** [PHP](http://php.net/)
 
 ## Text Editor / IDE
 
