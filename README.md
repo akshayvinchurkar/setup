@@ -180,6 +180,10 @@ As a front end web developer, you should have all the browsers downloaded for te
 ### **I use:** [NearlyFreeSpeech](https://www.nearlyfreespeech.net/)
 **Other Options:** [Amazon Web Services (AWS)](https://aws.amazon.com/), [Digital Ocean](https://www.digitalocean.com/), [MediaTemple](https://www.mediatemple.net/), [Rackspace](https://www.rackspace.com/)
 
+You have a choice between managed hosting, or setting up your own Virtual Private Server (VPS) in the cloud through services like Digital Ocean and AWS. The tradeoff is security and simplicity with managed hosting vs. having complete control and being able to keep prices down with a VPS. 
+
+I have some experience with both, and NearlyFreeSpeech has been a great middle ground for me. It's inexpensive, allows me more control than traditional shared hosting, and I don't have to worry about server security and upkeep. I might change my mind in the future, but for now, I've had only good experiences with NFS.
+
 ## Stack
 
 > The software bundle used for web development.
