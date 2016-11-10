@@ -88,7 +88,7 @@ git config --global user.email taniarascia@gmail.com
 
 #### Install Node.js
 
-[Node.js](https://git-scm.com/) is used to run server-side JavaScript.
+[Node.js](https://nodejs.org/en/) is used to run server-side JavaScript.
 
 ```shell
 brew install node
@@ -265,12 +265,37 @@ All extensions are installed by going to `File > Extension Manager`.
 ### **I use:** [ComodoSSL](https://comodosslstore.com/)
 **Other Options:** [Let's Encrypt](https://letsencrypt.org/)
 
+- Generate Certificate Request
+
+```shell
+openssl req -new -newkey rsa:2048 -nodes -keyout example.com.key -out example.com.csr
+```
+
+- Extra WordPress Configuration
+
+```php
+$_SERVER['HTTPS'] = 'on';
+define('FORCE_SSL_ADMIN', true);
+```
+
+```apacheconf
+RewriteEngine On
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+```
+
+### Testing
+
+- [SSL Server Test](https://www.ssllabs.com/ssltest/)
+
 ## Content Delivery Network (CDN)
 
 > Deliver cached website content to geographically dispersed servers.
 
 ### **I use:** [Cloudflare](https://www.cloudflare.com/)
 **Other Options:** [MaxCDN](https://www.maxcdn.com/), [AWS CloudFront](https://aws.amazon.com/cloudfront/)
+
+I pay for hosting based on bandwidth usage. Utilizing a CDN was as easy as pointing my name servers to Cloudflare's, and my bandwidth usage immediately dropped by at least 60%. My site got a speed and performance boost, I pay less for bandwidth, and it was fast and free to implement.
 
 ## Analytics
 
@@ -294,5 +319,5 @@ All extensions are installed by going to `File > Extension Manager`.
 - Docker
 - Composer
 - JavaScript frameworks (React, Angular, Vue)
-- Programming languages besides PHP and JS
+- Programming languages besides PHP
 - A lot of other stuff
