@@ -15,7 +15,7 @@ It doesn't matter what you use: Mac or Windows. Vim or Emacs. Tabs or spaces. PH
 - [Text Editor / IDE](#text-editor--ide)
 - [Stack](#stack)
 - [Hosting / Cloud Computing](#hosting--cloud-computing)
-- [Version Control](#version-control)
+- [Version Control Hosting](#version-control-hosting)
 - [Content Management System (CMS)](#content-management-system-cms)
 - [JS Task Runner](#js-task-runner)
 - [CSS Preprocessor](#css-preprocessor)
@@ -240,7 +240,7 @@ All extensions are installed by going to `File > Extension Manager`.
  }
  ```
 
-## Version Control
+## Version Control Hosting
 
 > The Git repository hosting service used for keeping track of revisions and collaboration.
 
@@ -261,8 +261,8 @@ Currently, I use the WordPress CMS both for professional projects and my persona
 ### Plugins
 
 - [Akismet](https://akismet.com/) - protect against comment spam.
-- [Intuitive Custom Post Order](https://wordpress.org/plugins/intuitive-custom-post-order/) - easily drag and drop to reposition posts.
-- [Move Login](https://wordpress.org/plugins/sf-move-login/) - disable the `/wp-admin` and `wp-login.php` URLs.
+- [Intuitive Custom Post Order](https://wordpress.org/plugins/intuitive-custom-post-order/) - easily drag and drop to reposition post and pages.
+- [Move Login](https://wordpress.org/plugins/sf-move-login/) - disable the `/wp-admin` and `wp-login.php` URLs and replace them with your own, custom URL.
 - [WP Performance Score Booster](https://wordpress.org/plugins/wp-performance-score-booster/) - most simple and effective speed and caching plugin I've used.
 - [Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/) - generate a sitemap.
 
@@ -273,7 +273,7 @@ Currently, I use the WordPress CMS both for professional projects and my persona
 ### **I use:** [Gulp](http://gulpjs.com/)
 **Other Options:** [Grunt](http://gruntjs.com/), [Brunch](http://brunch.io/)
 
-Task runners like Gulp are useful for watching changes to files and performing tasks like compiling, minifying, autoprefixing, linting, and more. I use Gulp to automatically watch for changes in my `/src` Sass directory, and output the minified, prefixed, compiled CSS along with Sourcemaps. I don't currently use Gulp for automatically updating the browser with the new content, or JavaScript, as I don't work with very advanced JavaScript at the moment.
+Task runners like Gulp are useful for watching changes to files and performing tasks like compiling, minifying, autoprefixing, linting, and more. I use Gulp to automatically watch for changes in my `/src` Sass directory, and output the minified, prefixed, compiled CSS, along with Sourcemaps. I don't currently use Gulp for automatically refreshing the browser with the new content, or JavaScript, as I don't work with very advanced JavaScript at the moment.
 
 ### Plugins
 
@@ -288,6 +288,8 @@ Task runners like Gulp are useful for watching changes to files and performing t
 
 ### **I use:** [Sass](http://sass-lang.com/)
 **Other Options:** [LESS](http://lesscss.org/), [Stylus](http://stylus-lang.com/)
+
+A preprocessor is a program that takes a bit of code and compiles it into a different bit of code. In the case of CSS preprocessors, we’re compiling the Sass language into regular old CSS that the browser can interpret. I like having the ability to define variables, nest, create loops, and organize my project into multiple files, all of which and more I can do with Sass, specifically the `.scss` extension. I started with LESS, but as Sass grew in popularity, I switched over and now prefer it.
 
 ## CSS Framework
 
@@ -345,16 +347,35 @@ I pay for hosting based on bandwidth usage. Utilizing a CDN was as easy as point
 
 > Improve speed, performance, and search rankings.
 
+I regularly run my site through multiple speed and performance tests to see how good I'm doing and what I can improve. Much of what I've listed above contributes to my positive scores and high SEO rankings.
+
+### Steps to Improve Google Search Ranking
+
+1. Make good content. 
+
+### Testing
+
+- [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
+- [GT Metrix](https://gtmetrix.com/)
+- [SEO Site Checkup](http://seositecheckup.com/)
+- [Pingdom Website Speed Test](https://tools.pingdom.com/)
+- [YSlow](http://yslow.org/)
+- [Webpage Test](http://www.webpagetest.org/)
+
 ### Analytics
 
 Track and report website traffic.
 
-### **I use:** [Google Analytics](https://analytics.google.com/)
+- [Google Analytics](https://analytics.google.com/)
+- [Google Search Console](https://www.google.com/webmasters)
 
 ## Miscellaneous
 
+A few other programs I use on a regular basis.
+
 - [Evernote](https://evernote.com/) - for note taking, synced accross multiple devices (well, 2).
 - [Slack](https://slack.com/) - for communication between teams.
+- [Adobe](http://www.adobe.com/) - I use Photoshop and Illustrator for design.
 
 ### Things I Don't Know About Yet
 
