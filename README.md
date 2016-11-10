@@ -245,6 +245,8 @@ All extensions are installed by going to `File > Extension Manager`.
 ### **I use:** [GitHub](https://github.com/)
 **Other Options:** [BitBucket](https://bitbucket.org), [GitLab](https://about.gitlab.com/), [AWS CodeCommit](https://aws.amazon.com/codecommit/)
 
+GitHub is easily the most well-known place to host public and private Git repositories. Depending on what you want to do with private repositories, other options might be better or cheaper. GitHub doubles as a web development portfolio and resume and industry-specific social media.
+
 ## Content Management System (CMS)
 
 > The software used to create and manage a website through an admin dashboard.
@@ -252,12 +254,29 @@ All extensions are installed by going to `File > Extension Manager`.
 ### **I use:** [WordPress](https://wordpress.org/)
 **Other Options:** [Jekyll](https://jekyllrb.com)
 
+### Plugins
+
+- [Akismet](https://akismet.com/) - protect against comment spam.
+- [Intuitive Custom Post Order](https://wordpress.org/plugins/intuitive-custom-post-order/) - easily drag and drop to reposition posts.
+- [Move Login](https://wordpress.org/plugins/sf-move-login/) - disable the `/wp-admin` and `wp-login.php` URLs.
+- [WP Performance Score Booster](https://wordpress.org/plugins/wp-performance-score-booster/) - most simple and effective speed and caching plugin I've used.
+- [Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/) - generate a sitemap.
+
 ## JS Task Runner
 
 > Command line automation for common repetitive tasks.
 
 ### **I use:** [Gulp](http://gulpjs.com/)
 **Other Options:** [Grunt](http://gruntjs.com/), [Brunch](http://brunch.io/)
+
+Task runners like Gulp are useful for watching changes to files and performing tasks like compiling, minifying, autoprefixing, linting, and more. I use Gulp to automatically watch for changes in my `/src` Sass directory, and output the minified, prefixed, compiled CSS along with Sourcemaps. I don't currently use Gulp for automatically updating the browser with the new content, or JavaScript, as I don't work with very advanced JavaScript at the moment.
+
+### Plugins
+
+- [Sass](https://www.npmjs.com/package/gulp-sass)
+- [Sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
+- [CSS Nano](https://www.npmjs.com/package/gulp-cssnano)
+- [Autoprefixer](https://github.com/postcss/autoprefixer)
 
 ## CSS Preprocessor
 
