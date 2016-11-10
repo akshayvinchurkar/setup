@@ -193,6 +193,8 @@ I have some experience with both, and NearlyFreeSpeech has been a great middle g
 
 A stack describes the platform used for web development. The server my website runs on and the professional websites I've made have been on the LAMP stack, which has been a stable and popular choice for many years. The LAMP stack is a generalized name, as you can easily change out Linux for Windows, Apache for NGINX, MySQL for MariaDB, PHP for Python, and so on. Every layer in LAMP is free and open source.
 
+For local development, I use [MAMP](https://www.mamp.info/en/) instead of installing everything manually. MAMP is easy to set up and leaves my default system settings alone, creating sandbox environment. This is preferable for me, but might not be for others. 
+
 - **Operating System:** Linux (many distributions available)
 - **Web Server:** [Apache](https://www.apache.org/)
 - **Database:** [MySQL](https://www.mysql.com/)
@@ -343,8 +345,8 @@ I pay for hosting based on bandwidth usage. Utilizing a CDN was as easy as point
 
 ## Miscellaneous
 
-- [Evernote](https://evernote.com/)
-- [Slack](https://slack.com/)
+- [Evernote](https://evernote.com/) - for note taking, synced accross multiple devices (well, 2).
+- [Slack](https://slack.com/) - for communication between teams.
 
 ### Things I Don't Know About Yet
 
