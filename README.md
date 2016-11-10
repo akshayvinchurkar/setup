@@ -265,6 +265,7 @@ Currently, I use the WordPress CMS both for professional projects and my persona
 - [Move Login](https://wordpress.org/plugins/sf-move-login/) - disable the `/wp-admin` and `wp-login.php` URLs and replace them with your own, custom URL.
 - [WP Performance Score Booster](https://wordpress.org/plugins/wp-performance-score-booster/) - most simple and effective speed and caching plugin I've used.
 - [Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/) - generate a sitemap.
+- [WP Smush](https://wordpress.org/plugins/wp-smushit/) - image compression.
 
 ## JS Task Runner
 
@@ -347,7 +348,14 @@ I pay for hosting based on bandwidth usage. Utilizing a CDN was as easy as point
 
 > Improve speed, performance, and search rankings.
 
-I regularly run my site through multiple speed and performance tests to see how good I'm doing and what I can improve. Much of what I've listed above contributes to my positive scores and high SEO rankings.
+I regularly run my site through multiple speed and performance tests to see how good I'm doing and what I can improve. Much of what I've listed above contributes to my positive scores and high search rankings.
+
+- Use a [CDN](https://www.cloudflare.com/) to improve speed and performance.
+- Use [SSL/TLS](https://letsencrypt.org/) to improve security.
+- [Performance Score Booster](https://wordpress.org/plugins/wp-performance-score-booster/) for WordPress enables GZIP compression, browser caching, and file minification.
+- Use [structured data](https://developers.google.com/search/docs/guides/intro-structured-data) to help Google understand your content.
+- Add a [sitemap](https://wordpress.org/plugins/google-sitemap-generator/).
+- [Compress images](https://wordpress.org/plugins/wp-smushit/)
 
 ### Steps to Improve Google Search Ranking
 
@@ -355,12 +363,12 @@ I regularly run my site through multiple speed and performance tests to see how 
 
 ### Testing
 
-- [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
+- [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/) - 91/100
 - [GT Metrix](https://gtmetrix.com/)
-- [SEO Site Checkup](http://seositecheckup.com/)
+- [SEO Site Checkup](http://seositecheckup.com/) - 89/100
 - [Pingdom Website Speed Test](https://tools.pingdom.com/)
 - [YSlow](http://yslow.org/)
-- [Webpage Test](http://www.webpagetest.org/)
+- [Webpage Test](http://www.webpagetest.org/) - A/A/A/A/A Yes
 
 ### Analytics
 
