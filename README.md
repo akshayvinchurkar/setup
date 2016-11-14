@@ -304,6 +304,19 @@ bower install bootstrap
 
 this will install boostrap and jquery into bower_components folder in your project.
 
+## Scaffolding Tool
+
+> Start Your New Project with ease
+
+### [Yeoman](http://yeoman.io/)
+
+Yeoman is Scaffolding tool what is this mean? ok if you starting a new project if you follow the latest trends then you have to configure all those tools in this setup right? yeoman make your life simple it has premade project templates that generate your plain basic template just like if you want to develope your wordpress theme you used userscore theme. basically it pakage your whole app and give you simple starting point install it like this
+
+```
+npm install -g yeoman
+
+```
+
 ## CSS Preprocessor
 
 > Extend the features of CSS and compile it back into CSS.
