@@ -283,6 +283,21 @@ Task runners like Gulp are useful for watching changes to files and performing t
 - [CSS Nano](https://www.npmjs.com/package/gulp-cssnano)
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
 
+## Bower 
+> Package Manager for Web.
+
+### [bower](https://bower.io/)
+**Other Options:** [npm](https://www.npmjs.com/)
+
+Bower is simple easy to use package Manager for Web Its almost same as npm but its simple. if you clone any repository from github and it has bower.json file in it then
+you have to install those dependencies. installing bower is simple task open up your terminal and type. 
+```npm install -g bower
+```
+and ex. if you want to install bootstrap for your project then type
+```bower install bootstrap
+```
+this will install boostrap and jquery into bower_components folder in your project.
+
 ## CSS Preprocessor
 
 > Extend the features of CSS and compile it back into CSS.
@@ -388,9 +403,9 @@ A few other programs I use on a regular basis.
 ### Things I Don't Know About Yet
 
 - Vagrant
-- VirtualBox
+- VirtualBox (Virtualbox is Hypervisor in simple words you can run any operating system in Virtualbox)
 - Docker
-- Composer
+- Composer (composer is a dependencie manager it manage yor php project dependencies)
 - JavaScript frameworks (React, Angular, Vue)
 - Programming languages besides PHP
 - A lot of other stuff
